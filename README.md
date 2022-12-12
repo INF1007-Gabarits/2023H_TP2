@@ -1,6 +1,7 @@
 # TP2
 
-#### :alarm_clock: [Date de remise le dimanche 9 octobre à 23h59](https://www.timeanddate.com/countdown/fall?iso=20221009T2355&p0=165&msg=Remise+TP2&font=cursive)
+#### :alarm_clock: Date de remise : dimanche 26 février 2023 à 23h59.
+
 ## Objectif
 Ce TP poursuit votre apprentissage de l'algorithmie avec le langage de programmation Python.
 Plus particulièrement l'utilisation de structure de contrôles et de structure de données.  
